@@ -1,0 +1,11 @@
+Top 10 Python IDE
+1 IDLE
+2 PyCharm
+3 Spyder
+4 Eclipse PyDev
+5 Wing
+6 Visual Studio Code
+7 Sublime Text
+8 Atom
+9 Vim
+10 Jupyter Notebook
